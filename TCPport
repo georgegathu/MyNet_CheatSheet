@@ -1,0 +1,17 @@
+TCP Port Number            APPLICATION
+7                          Echo
+20,21                      FTP data, FTP control
+22                         SSH/SCP
+23                         Telnet  
+25                         SMTP
+43                         whois
+69                         TFTP
+80,443                     HTTP, HTTPS
+110,143                    POP3, IMAP4
+179                        BGP
+201                        AppleTalk
+389                        LDAP
+445                        Microsoft DS, SMB
+464,49                     Kerberos, TACACS
+3306,5432                  MySQL, PostgreSQL  
+
